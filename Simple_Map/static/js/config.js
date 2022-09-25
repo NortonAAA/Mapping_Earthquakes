@@ -1,0 +1,2 @@
+// Mapbox API_KEY
+const API_KEY = "pk.eyJ1IjoiYWFub3J0b24iLCJhIjoiY2w3dHFjbXJkMDN6NTNubXB0YThvcjNwOSJ9.JiTiiNAKqpD6tfIyoU860A";
